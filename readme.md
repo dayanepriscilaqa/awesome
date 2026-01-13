@@ -915,4 +915,4 @@
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
 
-Revisado por Priscila Lopes
+Revisado por Priscila Lopess
